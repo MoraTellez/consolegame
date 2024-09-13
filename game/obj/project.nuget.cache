@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iM+nChn2XssFzuTv+M9Q2oabrHMbclkLjEu2m1jYLPqCHzDjssewWgjYiM4p93FkdURPPW/J6LpM/1bP3N5kZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramse\\OneDrive\\Documentos\\internship\\tasks\\3rd\\game\\game\\game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramse\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
